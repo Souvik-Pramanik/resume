@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.png" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -54,7 +54,7 @@
 
         <header class="section-header">
           <h2>Experience</h2>
-        </header>
+        </header> 
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
@@ -155,15 +155,15 @@
       <!-- end Recognition -->
       {% endif %}
 
-      {% if site.resume_section_Certifaction %}
-      <!-- begin association -->
+      {% if site.resume_section_associations %}
+      <!-- begin Associations -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>ASDFGHJKLKJHGFDSDFGHJKJHGFDSADFGHJKLJHGFD</h2>
+          <h2>Awards</h2>
         </header>
 
-        {% for association in site.data.association %}
+        {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
@@ -172,7 +172,7 @@
         {% endfor %}
 
       </section>
-      <!-- end association -->
+      <!-- end Associations -->
       {% endif %}
 
       {% if site.resume_section_interests %}
@@ -232,7 +232,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/snaptokon">@snaptokon</a>. Fork me on <a href="https://github.com/souvik-pramanik/resume">GitHub</a>.</p>
+        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
       </footer>
 
     </div>
