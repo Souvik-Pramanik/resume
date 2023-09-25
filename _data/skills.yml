@@ -1,25 +1,7 @@
 # Skills
 # Organizational leadership
-- skill: C language
-  description: Skillful
-
-  - skill: C++
-  description: Intermediate
-
-  - skill: JAVA
-  description: Intermediate
-
-  - skill: HTML/CSS/JS
-  description: Intermediate
-
-  - skill: MYSQL
-  description: Intermediate
-  
-  - skill: DevOPs
-  description: Intermediate
-
-  - skill: Cloud Computing
-  description: Beginner
+- skill: Organizational leadership
+  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
 - skill: Communications strategy
