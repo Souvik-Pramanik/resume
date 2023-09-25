@@ -1,26 +1,13 @@
 # Degree
-- degree: Bachelor of Technology, Computer Science & Engineering
-  uni: Techno International New Town
-  year: 2021 &mdash; 2024
+- degree: Bachelor of Arts, Human Rights
+  uni: Yale University
+  year: 2004 &mdash; 2008
   awards:
-    - award: CGPA - 7.98
-  summary: Completed B.Tech in CSE
+    - award: Summa Cumme Laude graduate
+  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: Diploma, Computer Science & Engineering
-  uni: Techno International New Town
-  year: 2018 &mdash; 2021
-  awards:
-    - award: CGPA - 8.19
-  summary: Completed Diploma in CSE
-
-- degree: Higher Secondary, WBCHSE
-  uni: Aryya Bidyapith High School
-  year: 2018
-  award: Most likely to succeed with 64.4%
-  summary: Complete My Higher Secondary Schooling.
-
-- degree: Secondary, WBBSE
-  uni: Aryya Bidyapith High School
-  year: 2016
-  award: Most likely to succeed with 70%
-  summary: Complete My Secondary Schooling.
+- degree: High School Diploma
+  uni: Springfield High School
+  year: 2004
+  award: Most likely to succeed
+  summary: You can choose to have either a single or multiple awards
