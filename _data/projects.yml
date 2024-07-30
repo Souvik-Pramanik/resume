@@ -4,13 +4,14 @@
 # jazznotes.io
 - project: Quantum Image Proccessing
   role: Founder & Primary Developer
-  duration: Jun,2023 &mdash; Present
-  # url: "#"
-  description: Quantun Morphological operation based Image Proccessing for image sharpening and restoration.
+  duration: October,2023 &mdash; Present
+  # url: "https://github.com/Souvik-Pramanik/Quantum-Image-Processing"
+  description: This project leverages Qiskit, PIL, OpenCV, and Matplotlib to implement and simulate quantum
+image morphological operations for image restoration and sharpening.
 
 # Springfield Community Outreach Group
 - project: Facemask Detection
   role: Developer
-  duration: Fev,2023 &mdash; May,2023
-  # url: "#"
-  description: Python-3 based Face mask detection using Tensorflow & Open-CV.
+  duration: June,2023 &mdash; December,2023
+  # url: "https://github.com/Souvik-Pramanik/Android-FaceMask-Detection_FDM_V2"
+  description: Developing a machine learning model to identify whether individuals in images are wearing facemasks using Python-based libraries and frameworks.
